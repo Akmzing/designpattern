@@ -1,10 +1,13 @@
-package com.example.proxy;
+package com.example.proxy.staticproxy;
+
+import com.example.proxy.LuRenJia;
+import com.example.proxy.Tompus;
 
 /**
  * @author amzing
- * 比赛开始
+ * 静态代理 比赛开始
  */
-public class Game {
+public class StaticGame {
     public static void main(String[] args){
         LuRenJia luRenJia = new LuRenJia();
 
