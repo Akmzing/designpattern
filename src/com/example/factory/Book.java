@@ -1,7 +1,7 @@
 package com.example.factory;
 
 /**
- * @author amzing
+ * @author Akmzing
  * 工厂模式
  */
 public interface Book {

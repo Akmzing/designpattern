@@ -4,7 +4,7 @@ import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 
 /**
- * @author amzing
+ * @author Akmzing
  * jdk动态代理
  */
 public class JdkInvocationHandler implements InvocationHandler{

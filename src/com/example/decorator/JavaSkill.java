@@ -1,7 +1,7 @@
 package com.example.decorator;
 
 /**
- * @author amzing
+ * @author Akmzing
  * java技能
  */
 public abstract class JavaSkill {

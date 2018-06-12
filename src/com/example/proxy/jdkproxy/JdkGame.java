@@ -7,7 +7,7 @@ import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Proxy;
 
 /**
- * @author amzing
+ * @author Akmzing
  * jdk动态代理 比赛开始
  */
 public class JdkGame {

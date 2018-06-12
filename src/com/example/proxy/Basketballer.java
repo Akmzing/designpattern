@@ -1,7 +1,7 @@
 package com.example.proxy;
 
 /**
- * @author amzing
+ * @author Akmzing
  * 会打篮球的人
  */
 public interface Basketballer {

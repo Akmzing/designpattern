@@ -3,7 +3,7 @@ package com.example.observer;
 import java.util.Observable;
 
 /**
- * @author amzing
+ * @author Akmzing
  * 闹钟
  */
 public class Alarm extends Observable{

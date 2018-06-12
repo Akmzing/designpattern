@@ -1,7 +1,7 @@
 package com.example.abstractfactory;
 
 /**
- * @author amzing
+ * @author Akmzing
  * 书店
  */
 public class BookShop {

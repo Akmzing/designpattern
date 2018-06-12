@@ -1,7 +1,7 @@
 package com.example.strategy;
 
 /**
- * @author amzing
+ * @author Akmzing
  * 策略1
  */
 public class Strategy2 implements IStrategy {

@@ -4,7 +4,7 @@ import java.util.Observable;
 import java.util.Observer;
 
 /**
- * @author amzing
+ * @author Akmzing
  * 懒汉在睡觉，监听闹钟
  */
 public class LanHan implements Observer{

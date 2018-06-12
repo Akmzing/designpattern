@@ -1,7 +1,7 @@
 package com.example.abstractfactory;
 
 /**
- * @author amzing
+ * @author Akmzing
  * 抽象工厂模式
  */
 public interface Book {

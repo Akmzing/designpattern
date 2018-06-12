@@ -1,7 +1,7 @@
 package com.example.decorator;
 
 /**
- * @author amzing
+ * @author Akmzing
  * 装饰类抽象类
  */
 public abstract class Decorator extends JavaSkill {

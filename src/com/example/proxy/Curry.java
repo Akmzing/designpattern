@@ -1,7 +1,7 @@
 package com.example.proxy;
 
 /**
- * @author amzing
+ * @author Akmzing
  * 库里
  */
 public class Curry implements Basketballer{

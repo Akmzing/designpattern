@@ -3,7 +3,7 @@ package com.example.proxy.cglibproxy;
 import com.example.proxy.Curry;
 
 /**
- * @author amzing
+ * @author Akmzing
  * cglib代理 比赛开始
  */
 public class CglibGame {

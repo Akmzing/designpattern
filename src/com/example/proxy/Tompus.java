@@ -1,7 +1,7 @@
 package com.example.proxy;
 
 /**
- * @author amzing
+ * @author Akmzing
  * 汤普森
  */
 public class Tompus implements Basketballer{

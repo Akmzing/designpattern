@@ -1,7 +1,7 @@
 package com.example.template;
 
 /**
- * @author amzing
+ * @author Akmzing
  * 具体模版类
  */
 public class ImplClass2 extends AbstractClass{

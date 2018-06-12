@@ -1,7 +1,7 @@
 package com.example.abstractfactory;
 
 /**
- * @author amzing
+ * @author Akmzing
  * 低价书
  */
 public class LowPriceNovelBook extends AbstractNovelBook {

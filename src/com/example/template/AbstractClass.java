@@ -1,7 +1,7 @@
 package com.example.template;
 
 /**
- * @author amzing
+ * @author Akmzing
  * 抽象模版类
  */
 public abstract class AbstractClass {

@@ -1,7 +1,7 @@
 package com.example.decorator;
 
 /**
- * @author amzing
+ * @author Akmzing
  * java 基础技能
  */
 public class FoundationJavaSkill extends JavaSkill {

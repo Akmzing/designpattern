@@ -1,7 +1,7 @@
 package com.example.decorator;
 
 /**
- * @author amzing
+ * @author Akmzing
  * java jvm技能
  */
 public class JvmJavaSkill extends Decorator {

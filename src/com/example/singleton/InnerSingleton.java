@@ -1,7 +1,7 @@
 package com.example.singleton;
 
 /**
- * @author amzing
+ * @author Akmzing
  * 内部类模式
  */
 public class InnerSingleton {

@@ -1,7 +1,7 @@
 package com.example.strategy;
 
 /**
- * @author amzing
+ * @author Akmzing
  * 策略使用者
  */
 public class StrategyUser {

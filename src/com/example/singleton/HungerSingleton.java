@@ -1,7 +1,7 @@
 package com.example.singleton;
 
 /**
- * @author amzing
+ * @author Akmzing
  * 饿汉模式
  */
 public class HungerSingleton {

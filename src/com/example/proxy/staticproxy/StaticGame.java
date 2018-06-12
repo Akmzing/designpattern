@@ -4,7 +4,7 @@ import com.example.proxy.LuRenJia;
 import com.example.proxy.Tompus;
 
 /**
- * @author amzing
+ * @author Akmzing
  * 静态代理 比赛开始
  */
 public class StaticGame {

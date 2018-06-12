@@ -3,7 +3,7 @@ package com.example.observer;
 import java.util.Observable;
 
 /**
- * @author amzing
+ * @author Akmzing
  * 公鸡
  */
 public class Cock extends Observable {

@@ -1,7 +1,7 @@
 package com.example.decorator;
 
 /**
- * @author amzing
+ * @author Akmzing
  * java spring技能
  */
 public class SpringJavaSkill extends Decorator{

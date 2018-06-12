@@ -1,7 +1,7 @@
 package com.example.abstractfactory;
 
 /**
- * @author amzing
+ * @author Akmzing
  * 抽象工厂接口
  */
 public abstract class AbstractCreator {

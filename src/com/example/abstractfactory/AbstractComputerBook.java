@@ -1,7 +1,7 @@
 package com.example.abstractfactory;
 
 /**
- * @author amzing
+ * @author Akmzing
  * 计算机书本分类
  */
 public abstract class AbstractComputerBook implements Book {

@@ -1,7 +1,7 @@
 package com.example.singleton;
 
 /**
- * @author amzing
+ * @author Akmzing
  * 枚举模式
  * 枚举类型最终编译为类
  * 外部调用单例的例子:eg:
